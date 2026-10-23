@@ -1,4 +1,26 @@
-h1{
+/* tag */
+/* h1{
     color: crimson;
     background-color: burlywood;
+} */
+/* ID selector */
+/* #header2{
+    color: black;
+    background-color: crimson;
+} */
+
+/* class selector */
+/* .haayrabba{
+    color:aquamarine;
+    background-color: darkslategray;
+} */
+
+/* attribute selector */
+input[type="text"]{
+   color:aquamarine;
+    background-color: darkslategray; 
+}
+input[type="password"]{
+   color:whitesmoke;
+    background-color:rosybrown; 
 }
