@@ -1,0 +1,23 @@
+
+#test-box{
+color: white;
+background-color: gold;
+padding: 20px;
+border: 10px solid black;
+margin-bottom: 5px;
+margin-left: 50%;
+
+}
+
+#test-box span{
+background-color: rgb(7, 7, 7);
+}
+
+#test-box2{
+color: white;
+background-color: purple;
+padding: 20px;
+border: 10px solid green;
+margin-right: 50%;
+
+}
